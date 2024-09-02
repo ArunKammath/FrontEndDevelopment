@@ -1,0 +1,19 @@
+
+table , th, td {
+    border:1px solid black;
+    margin-left: 25%;
+}
+table {
+    text-align: center;
+    width : 40%;
+}
+h1 {
+    color: Red;
+    background-color: lightgreen;
+}
+th {
+    background-color: lightcyan;
+}
+td {
+    background-color: pink;
+}
